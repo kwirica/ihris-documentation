@@ -9,7 +9,7 @@ repo_name: 'iHRIS'
 repo_url: 'https://github.com/iHRIS/iHRIS'
 
 # Copyright
-copyright: 'Copyright &copy; 2024 IntraHealth International'
+copyright: 'Copyright &copy; 2025 IntraHealth International'
 
 # Theme
 theme:
@@ -17,6 +17,14 @@ theme:
   palette:
     primary: 'indigo'
     accent: 'blue'
+    media: "(prefers-color-scheme: light)"
+    scheme: default
+    primary: indigo
+    accent: indigo
+    media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: indigo
+    accent: indigo  
   language: 'en'
   font:
     text: 'Roboto'

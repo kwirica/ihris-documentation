@@ -1,7 +1,11 @@
 # iHRIS Documentation
+Welcome to the iHRIS technical documentation. This resource is structured to support a range of users, including developers, system administrators, and end users. Select the manual that aligns with your role:
 
-Welcome to the iHRIS technical documentation. There are two manuals. Choose the one based on your needs:
+## Developer Manual
+Detailed documentation for extending iHRIS functionality, including feature development and system customization.
 
-**Developer**: This manual covers details for building new features and customizing iHRIS.
-**Sysadmin**: This manual shows how to install iHRIS on servers and how to configure it.
-**User**: This manual shows users how to navigate iHRIS v5
+## System Administrator Manual
+Comprehensive instructions for installing, configuring, and managing iHRIS on various server environments.
+
+## User Manual
+Guidance for navigating and using iHRIS v5 for effective human resources management.
